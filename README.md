@@ -1,1 +1,2 @@
 # HOTEL-WEBPAGE
+The food hotel web page is designed to attract food lovers by highlighting the hotel’s delicious menu, cozy dining atmosphere, and excellent service. It features a warm welcome section with mouth-watering images of popular dishes, followed by a detailed menu showcasing breakfast, lunch, dinner, and special items. Visitors can explore the chef's specials, customer reviews, and ongoing offers
